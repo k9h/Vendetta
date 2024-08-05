@@ -50,3 +50,19 @@ footer {
     bottom: 0;
     width: 100%;
 }
+
+.trackcontainer {
+    background-color: red;
+    padding: 100%;
+    border-style: solid;
+    border-color: black;
+    border-width: 6px;
+    border-radius: 7px;
+}
+
+#welcome-banner {
+    background-image: url("images/background.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 100px;
+}
